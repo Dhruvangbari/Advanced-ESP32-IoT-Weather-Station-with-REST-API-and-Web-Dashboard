@@ -23,6 +23,7 @@ This project demonstrates modular firmware design, embedded web servers, and rea
 
 ## Technologies Used
 
+
 - ESP32 Microcontroller
 - Arduino Framework
 - DHT11 / DHT22 Sensor
